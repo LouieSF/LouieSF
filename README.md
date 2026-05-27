@@ -4,6 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=LouieSF&color=0ac441&style=for-the-badge"/>
 </p> <br>
 
+<video align="center" width="100%" autoplay loop muted playsinline>
+  <source src="assets/mr_robot_walk.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 <!--
 **LouieSF/LouieSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
