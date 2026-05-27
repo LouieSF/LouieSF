@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=LouieSF&color=0ac441&style=for-the-badge"/>
 </p> <br>
 
-<img src="assets/mr_robot_walk.gif" width="100%" align="center" alt="poop">
+<img src="assets/mr_robot_walk.gif" width="100%" align="center" alt="poop"/>
 
 
 
