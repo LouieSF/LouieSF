@@ -1,13 +1,11 @@
-## Hi there 👋
+## Hello
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LouieSF&color=0ac441&style=for-the-badge"/>
 </p> <br>
 
-<video align="center" width="100%" autoplay loop muted playsinline>
-  <source src="assets/mr_robot_walk.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="assets/mr_robot_walk.gif" width="100%" align="center" alt="poop">
+
 
 
 <!--
