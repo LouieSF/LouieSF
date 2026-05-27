@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LouieSF&color=0ac441&style=for-the-badge"/>
+</p> <br>
+
+
 <!--
 **LouieSF/LouieSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
